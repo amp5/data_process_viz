@@ -1,0 +1,10 @@
+---
+title: "QMSS G4063 - Data Processing and Data Visualization"
+author: "Alexandra Plassaras"
+date: "February 17, 2016"
+output: html_document
+---
+
+This is a general R Markdown for Columbia University's Quantitative Methods in Social Sciences class Data Processing and Data Visualization.
+
+Stay tuned for more...
