@@ -8,3 +8,8 @@ output: html_document
 This is a general R Markdown for Columbia University's Quantitative Methods in Social Sciences class Data Processing and Data Visualization.
 
 Stay tuned for more...
+
+
+```{r, echo=FALSE}
+ggplot(cars)
+```
